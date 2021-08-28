@@ -60,4 +60,4 @@ I have looked into and worked around an immense variety of technologies such as 
 ![Keerthana's Github Stats](https://github-readme-stats.vercel.app/api?username=Keerthanab14&count_private=true&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanab14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Keerthanab14.rusty-sj)
