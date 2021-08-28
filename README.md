@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, I am Keerthana, a pre-final year student at Sir MVIT, Bangalore pursuing B.E in Electronics and Communication Engineering graduating in July 2022.
+A pre-final year student at Sir MVIT, Bangalore pursuing B.E in Electronics and Communication Engineering graduating in July 2022.
 
 I have looked into and worked around an immense variety of technologies such as Java and Springboot,chatbots using Dialogflow, building websites using Full-stack technologies, Data Analytics and Cloud Computing to name a few alongside being pretty active and participating in events that encourage me to learn. I'm always willing to participate in something that helps me learn and grow.
 <!-- - 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)-->
