@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Keerthanab14/Keerthanab14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I am [Rashmi](https://rusty-sj.github.io/)! 😁
+### Hi there 👋, I am [Keerthana](https://rusty-sj.github.io/)! 😁
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -60,4 +60,4 @@ I have looked into and worked around an immense variety of technologies such as 
 ![Keerthana's Github Stats](https://github-readme-stats.vercel.app/api?username=Keerthanab14&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanab14&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Keerthanab14.Keerthanab14)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
