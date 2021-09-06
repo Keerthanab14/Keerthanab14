@@ -58,6 +58,6 @@ I have looked into and worked around an immense variety of technologies such as 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 ![Keerthana's Github Stats](https://github-readme-stats.vercel.app/api?username=Keerthanab14&count_private=true&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanab14&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerthanab14&layout=compact)
 
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Keerthanab14.rusty-sj)-->
